@@ -3,13 +3,13 @@ ok computer
 
 <p align="center">
   <a href="https://github.com/xfeverdream/ok-computer">
-    <img src="./doc/image/banner_1280x360.png" width="400" alt="ok computer logo">
+    <img src="./doc/image/banner_1280x360.png" alt="ok computer logo">
   </a>
 </p>
 
 
 [![Open Source](https://img.shields.io/badge/Open_Source-2ea44f?style=for-the-badge)]
-[![License - MIT](https://img.shields.io/badge/License-MIT-276de6?style=for-the-badge)](https://)
+[![License - MIT](https://img.shields.io/badge/License-MIT-276de6?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
 
 ### Overview
 ok computer is a **lightweight 2D game engine** focused on rapid development of *point-and-click experiences* with minimal dependencies and **minimal code**.
