@@ -2,10 +2,9 @@ ok computer
 =====
 
 <p align="center">
-  <a href="https://github.com/xfeverdream/ok-computer">
-    <img src="./doc/image/banner_1280x360.png" alt="ok computer logo">
-  </a>
+  <img src="doc/image/banner_1280x360.png" alt="Banner" width="100%">
 </p>
+
 
 
 [![Open Source](https://img.shields.io/badge/Open_Source-2ea44f?style=for-the-badge)]
