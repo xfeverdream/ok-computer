@@ -1,13 +1,10 @@
-ok computer
-=====
-
 <p align="center">
   <img src="doc/image/banner_1280x360.png" alt="Banner" width="100%">
 </p>
 
 
 
-[![Open Source](https://img.shields.io/badge/Open_Source-2ea44f?style=for-the-badge)]
+![Open Source](https://img.shields.io/badge/Open_Source-2ea44f?style=for-the-badge)
 [![License - MIT](https://img.shields.io/badge/License-MIT-276de6?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
 
 ### Overview
